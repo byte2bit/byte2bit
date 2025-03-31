@@ -11,6 +11,8 @@
 <a href="https://www.linkedin.com/in/silvio-ribeiro-sr" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=byte2bit&layout=compact&bg_color=000&border_color=30A3DC&title_color=6e8eff&text_color=FFF)
+<br><br>
 <p>
   <img alt="Vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
@@ -35,6 +37,5 @@
   <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=flat-square&logo=Postman&logoColor=white" />
 </p>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=byte2bit&layout=compact&bg_color=000&border_color=30A3DC&title_color=6e8eff&text_color=FFF)
 
 </div>

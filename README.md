@@ -35,4 +35,6 @@
   <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=flat-square&logo=Postman&logoColor=white" />
 </p>
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=byte2bit&layout=compact&bg_color=000&border_color=30A3DC&title_color=6e8eff&text_color=FFF)
+
 </div>

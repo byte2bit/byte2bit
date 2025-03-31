@@ -2,7 +2,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Bem-vindo(a) à minha página! </h1>
 
 
-<h3>Eu sou Silvio, desenvolvedor Fullstack de <b>São Paulo, Brasil</b></h3>
+<h3>Eu sou Silvio Ribeiro, desenvolvedor Fullstack de <b>São Paulo, Brasil</b></h3>
 
 <p>
 

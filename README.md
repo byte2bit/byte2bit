@@ -12,7 +12,7 @@
 </div>
 
 <p align="justify"><br><h3>🚀 Resumo Profissional</h3>
-Profissional multifacetado com sólida trajetória em Desenvolvimento de Software, Engenharia de Dados e Gestão de Soluções Web. Possuo ampla experiência na criação, manutenção e integração de aplicações web e automação de processos, unindo visão técnica rigorosa e foco em eficiência operacional.
+Profissional multifacetado com sólida trajetória em Desenvolvimento de Software, Engenharia de Dados e Gestão de Soluções Web. Possuo ampla experiência na criação, manutenção e integração de aplicações web e automação de processos, unindo visão técnica rigorosa e foco em eficiência operacional.<br><br>
 
 Com expertise em desenvolvimento Full Stack, automação via IA e infraestrutura cloud, tenho histórico comprovado no desenvolvimento de sistemas sob medida para gestão interna, avaliação de desempenho e controle de processos operacionais e de conformidade.
 

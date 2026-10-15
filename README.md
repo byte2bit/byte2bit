@@ -21,8 +21,8 @@ Sou um profissional apaixonado por tecnologia, focado em transformar dados e có
 
 ### 🛠️ O que venho construindo & estudando
 
-- 🤖 **Automação & IA:** Criando e integrando agentes inteligentes de IA e workflows avançados utilizando **n8n** e **Make**.
-- 💻 **Sistemas Web:** Desenvolvimento de aplicações sob medida (como *Sistema de Gerenciamento de CATs (Certificado de Acervo Técnico)* e *Sistema de Avaliação de Desempenho*).
+- 🤖 **Automação & IA:** Criando e integrando agentes inteligentes de IA, workflows avançados utilizando **n8n** e **Make**, IA como apoio ao desenvolvimento (AI-Assisted Development).
+- 💻 **Sistemas Web:** Desenvolvimento de aplicações sob medida.
 
 ---
 <br><br>

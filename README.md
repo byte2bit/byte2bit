@@ -1,45 +1,30 @@
-<div>
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Bem-vindo(a) à minha página! </h1>
+# Olá, eu sou o Silvio Ribeiro! 👋
 
+🚀 **Desenvolvedor Full Stack | Entusiasta de IA & Automações**
 
-<h3 align="center">Eu sou Silvio Ribeiro, desenvolvedor Fullstack de <b>São Paulo, Brasil</b></h3>
+Sou um profissional apaixonado por tecnologia, focado em transformar dados e código em soluções operacionais eficientes. Tenho experiência no desenvolvimento de sistemas web sob medida, integração de agentes de IA, automação de workflows e gestão de infraestrutura de nuvem.
 
-<div align="center">
+---
 
-<a href="mailto:silvio.ribeiro@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF" /></a> 
-<a href="https://github.com/byte2bit" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/silvio-ribeiro-sr" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-</div>
+### 💻 Tecnologias & Ferramentas
 
-<p align="justify"><br><h3>🚀 Resumo Profissional</h3>
-Profissional multifacetado com sólida trajetória em Desenvolvimento de Software, Engenharia de Dados e Gestão de Soluções Web. Possuo ampla experiência na criação, manutenção e integração de aplicações web e automação de processos, unindo visão técnica rigorosa e foco em eficiência operacional.<br><br>
+**Linguagens & Frameworks:**
+`JavaScript` • `Vue.js` • `Node.js` • `PHP` • `Python`• `HTML5/CSS3` • `WordPress`
 
-Com expertise em desenvolvimento Full Stack, automação via IA e infraestrutura cloud, tenho histórico comprovado no desenvolvimento de sistemas sob medida para gestão interna, avaliação de desempenho e controle de processos operacionais e de conformidade.
+**IA & Automação:**
+`n8n (Workflow Automation)` • `Make (Integromat)` • `MS Power Automate` • `Integração de Agentes de IA` • `MySQL`
 
+**Cloud, DevOps & Ferramentas:**
+`AWS (SES)` • `Git & GitHub` • `Jira` • `Elementor`
 
-<br><h3>🛠️ Principais Competências & Habilidades Técnicas</h3>
-•	Desenvolvimento Web & Full Stack: Vue.js, Node.js, PHP, MySQL, WordPress e Elementor.
+---
 
-•	Dados & Inteligência Artificial: Engenharia de dados, Data Analytics, integração de agentes inteligentes e automação de workflows avançados com n8n e Make (Integromat).
+### 🛠️ O que venho construindo & estudando
 
-•	Cloud & Infraestrutura: Configuração e gestão de serviços em AWS e administração de domínios/hospedagem web.
+- 🤖 **Automação & IA:** Criando e integrando agentes inteligentes de IA e workflows avançados utilizando **n8n** e **Make**.
+- 💻 **Sistemas Web:** Desenvolvimento de aplicações sob medida (como *Sistema de Gerenciamento de CATs (Certificado de Acervo Técnico)* e *Sistema de Avaliação de Desempenho*).
 
-•	Ferramentas de Gestão & Versionamento: Git/GitHub para controle de versão e Jira para acompanhamento e gestão de projetos/sprints.
-
-•	Gestão Operacional: Elaboração e acompanhamento de Relatórios de Não Conformidade (RNC), atualização de sistemas e gestão de processos de TI e projetos de engenharia.
-
-<br><h3>💼 Destaques da Trajetória & Projetos</h3>
-•	Sistemas sob Medida: Desenvolvimento e implementação do Sistema de Gerenciamento de CATs (Vue.js e Node.js) e do Sistema de Avaliação de Desempenho (PHP e MySQL).
-
-•	Automação & IA: Especialização e aplicação prática da ferramenta n8n e Make para orquestração de fluxos de trabalho e integração de agentes de IA em processos corporativos.
-
-•	Projetos & Gestão Web: Administração técnica de portais web corporativos, atualizações de plugins, manutenção de infraestrutura e gestão de relatórios não conformes em projetos de grande porte.
-
-<br><h3>🎓 Formação Acadêmica & Desenvolvimento Contínuo</h3>
-•	Graduação em Sistemas de Informação - Faculdade Módulo Paulista (concluído).
-
-•	Especializações Contínuas: Automação de Processos com IA (n8n), Cloud Computing (AWS) e Arquitetura de Software Web.
-</p>
+---
 <br><br>
 <p align="center">
   <img alt="Vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=white" />
